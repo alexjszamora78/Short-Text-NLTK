@@ -70,7 +70,7 @@ python main.py
 
 
 * Obtenemos que el rango final es 1.80 (el modelo se a ajustado de forma automática para lograr un texto lo más resumido posible)
-* Se guardó en la ruta `output/resumen`
+* Se guardó en la ruta `output/resumen.txt`
 
 * **El texto original de covid19.txt posee 2479 palabras**
 * **El resumen creado posee 557 palabras**
